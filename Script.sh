@@ -33,3 +33,5 @@ xdg-user-dirs-update
 echo "APAGANDO DIRETORIOS"
 sudo rm -rf  "Documentos" "Imagens" "Música" "Público" "Vídeos" "Àrea de Trabalho"
 echo "[100%] Sucess"
+echo "Reniciando Computador"
+sudo reboot
